@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 QUICK AND DIRTY
 ===============
 
@@ -113,3 +114,6 @@ not "yet" at the level of Posix.1g or X/Open XNS Issue 5.
   instead of t_uscalar_t, some of the printf formats of these value
   might generate warnings from your compiler, since you are printing
   a long without a corresponding long format specifier.
+=======
+高级C
+>>>>>>> 98e65230c4bab3086d4975426b38e471e5751278
